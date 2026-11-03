@@ -1,0 +1,14 @@
+.runtime/
+artifacts/
+dist/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+node_modules/
+.DS_Store
+
+# Local account-specific research and images stay private.
+cheapest/evals/*
+!cheapest/evals/README.md
